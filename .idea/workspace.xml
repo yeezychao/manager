@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade65ae9-44c8-4973-a4a5-889adc6b63fc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
-    </list>
+    <list default="true" id="ade65ae9-44c8-4973-a4a5-889adc6b63fc" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -700,12 +696,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546677244545</updated>
-      <workItem from="1546677245957" duration="5754000" />
+      <workItem from="1546677245957" duration="5881000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5754000" />
+    <option name="totallyTimeSpent" value="5881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="0" />
